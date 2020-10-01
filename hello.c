@@ -14,6 +14,6 @@ static void hello_exit(void){
 module_init(hello_init);
 module_exit(hello_exit);
 
-MODULE_AUTHOR("DongHu");
+MODULE_AUTHOR("D Hu");
 MODULE_LICENSE("GPL");
-MODULE_DESCRIPTION("Dong's first driver with GPL licence.");
+MODULE_DESCRIPTION("My first driver with GPL licence.");
